@@ -10,7 +10,7 @@
 |-- index.html
 |-- style
     |-- style.css
-    `-- theme.css
+    |-- theme.css
 ```
 
 ## Used in this project
